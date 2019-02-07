@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/angular5-sample.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/angular5-sample)
+
 # Client
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
